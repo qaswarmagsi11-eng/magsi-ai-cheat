@@ -1,0 +1,6 @@
+{
+  "name": "MAGSI AI",
+  "description": "A modern, full-featured real-time AI messaging and creativity application featuring WhatsApp-inspired UI, 60 specialized AI contacts, META MAGSI flagship assistant, MAGSI Studio AI generators, real-time voice, stories, groups, and channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
